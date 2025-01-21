@@ -25,7 +25,7 @@ author:
   name             : "名字"
   pronouns         : # example: "she/her"  
   bio              : "个人介绍"
-  location         : "Earth"
+  location         : "地球"
   employer         : "。。。"
   uri              : # URL
   email            : "你的邮箱" 
