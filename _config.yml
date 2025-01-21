@@ -12,7 +12,7 @@ title                    : "这里是标题以后记得改"
 title_separator          : "-"
 name                     : &name "这里是名字"
 description              : &description "这里是介绍"
-url                      : https://agin.github.io
+url                      : https://agin.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
